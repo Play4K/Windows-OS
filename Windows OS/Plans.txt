@@ -1,0 +1,3 @@
+﻿Jede Windows-Boot Einstellung wird in BootSettings.cs geschrieben
+Jede Design Einstellung wird in ApperanceSettings.cs geschrieben
+Jede Einstellung zur Sprache ist in LanguageSettings.cs verfügbar
